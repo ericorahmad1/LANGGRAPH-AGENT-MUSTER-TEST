@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-google-genai
+langfuse==4.0.4
+opentelemetry-sdk==1.40.0
+python-dotenv
